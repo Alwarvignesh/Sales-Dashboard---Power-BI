@@ -8,37 +8,37 @@ The Sales Dashboard is an interactive Power BI report that offers comprehensive 
 
 
 **Key Features**
-1.Total Sales & Profit Analysis – Track revenue and profitability across different regions and categories.
-2.Regional Sales Performance – Identify top-performing states and cities using  charts.
-3.Category & Sub-Category Trends – Understand which product categories generate the most revenue.
-4.Customer Segmentation – Analyze purchasing behaviour across different customer segments.
-5.Time-Based Analysis – Compare sales trends over different months and years.
-5.Interactive Filters & Slicers – Drill down into specific insights using dynamic filters.
+**1.Total Sales & Profit Analysis** – Track revenue and profitability across different regions and categories.
+**2.Regional Sales Performance** – Identify top-performing states and cities using  charts.
+**3.Category & Sub-Category Trends** – Understand which product categories generate the most revenue.
+**4.Customer Segmentation** – Analyze purchasing behaviour across different customer segments.
+**5.Time-Based Analysis** – Compare sales trends over different months and years.
+**6.Interactive Filters & Slicers** – Drill down into specific insights using dynamic filters.
 
 
 **Dataset Information**
-•	Source: Sample Sales Dataset
-•	Fields Used:
-  o	Date Fields: Order Date, Ship Date
-  o	Customer Info: Customer Name, Segment
-  o	Geography: City, State, Region
-  o	Product Details: Category, Sub-Category
-  o	Sales Metrics: Sales, Profit, Discount, Quantity
+**•	Source**: Sample Sales Dataset
+**•	Fields Used**:
+ **o	Date Fields**: Order Date, Ship Date
+ **o	Customer Info**: Customer Name, Segment
+  **o	Geography**: City, State, Region
+  **o	Product Details**: Category, Sub-Category
+  **o	Sales Metrics**: Sales, Profit, Discount, Quantity
   
   
 **Visuals Used**
-1.KPI Cards – Display Total Sales, Profit, and Order Count.
-2.Bar & Column Charts – Show sales and profit trends by category and region.
-3.Map Visuals – Highlight geographic sales performance.
-4.Line Charts – Represent time-based sales trends.
-5.Tables & Matrix Views – Provide detailed sales breakdowns.
+**1.KPI Cards** – Display Total Sales, Profit, and Order Count.
+**2.Bar & Column Charts** – Show sales and profit trends by category and region.
+**3.Map Visuals** – Highlight geographic sales performance.
+**4.Line Charts** – Represent time-based sales trends.
+**5.Tables & Matrix Views** – Provide detailed sales breakdowns.
 
 
 **Tools & Technologies Used**
-•	Power BI – Data Visualization
-•	DAX (Data Analysis Expressions) – Measures and Calculations
-•	Power Query – Data Transformation
-•	Excel / CSV – Data Source
+**•	Power BI** – Data Visualization
+**•	DAX (Data Analysis Expressions)** – Measures and Calculations
+**•	Power Query** – Data Transformation
+**•	Excel / CSV** – Data Source
 
 
 **Dashboard Preview**
