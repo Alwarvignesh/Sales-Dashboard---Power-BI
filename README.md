@@ -17,7 +17,7 @@ The Sales Dashboard is an interactive Power BI report that offers comprehensive 
 
 
 
-## **Dataset Information**
+## Dataset Information
 -**•	Source**: Sample Sales Dataset
 -**•	Fields Used**:
  -**o	Date Fields**: Order Date, Ship Date
@@ -27,7 +27,7 @@ The Sales Dashboard is an interactive Power BI report that offers comprehensive 
   -**o	Sales Metrics**: Sales, Profit, Discount, Quantity
   
   
-## **Visuals Used**
+## Visuals Used
 -**1.KPI Cards** – Display Total Sales, Profit, and Order Count.
 -**2.Bar & Column Charts** – Show sales and profit trends by category and region.
 -**3.Map Visuals** – Highlight geographic sales performance.
@@ -35,7 +35,7 @@ The Sales Dashboard is an interactive Power BI report that offers comprehensive 
 -**5.Tables & Matrix Views** – Provide detailed sales breakdowns.
 
 
-## **Tools & Technologies Used**
+## Tools & Technologies Used
 -**•	Power BI** – Data Visualization
 -**•	DAX (Data Analysis Expressions)** – Measures and Calculations
 -**•	Power Query** – Data Transformation
